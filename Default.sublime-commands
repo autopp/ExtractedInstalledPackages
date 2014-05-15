@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "ExtractInstalledPackage: Extract/View InstalledPackage",
+    "command": "extract_installed_packages"
+  }
+]
