@@ -1,6 +1,6 @@
 [
   {
-    "caption": "ExtractInstalledPackage: Extract/View InstalledPackage",
-    "command": "extract_installed_packages"
+    "caption": "ExtractInstalledPackages: Extract/View Installed Package",
+    "command": "extract_installed_package"
   }
 ]
